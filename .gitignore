@@ -20,4 +20,5 @@
 \pard\pardeftab720\partightenfactor0
 \cf2 \strokec2 # Ignore configuration files with sensitive information\cf4 \strokec4 \
 config.ini\
-secrets.txt}
+secrets.txt}# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
