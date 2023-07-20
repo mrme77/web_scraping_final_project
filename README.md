@@ -3,13 +3,13 @@
 Module 7 Final Project: Web Scraping
 
 ## Description
-
-This project is part of the Web Mining and Applied NLP (44-620) course, student's name is Pasquale Salomone. The notebook aims at scraping a website to retrive some uself information and create effective visualizations.Here is the link to the Github repository: [Github Repo](https://github.com/mrme77/web_scraping_final_project).
+This project is part of the Web Mining and Applied NLP (44-620) course, student's name is Pasquale Salomone. The notebook aims at scraping a website to retrive some uself information and create effective visualizations.Here is the link to the Github repository: https://github.com/mrme77/web_scraping_final_project.
 
 ## Table of contents
 
 ### Scraping data from url
-The code in this section attempts to access the url url="https://www.euronews.com/2023/07/18/disloyal-views-lithuania-strips-russians-residency-permits" and create a Beautifulsoup response with the article text.
+The code in this section attempts to access the url https://www.euronews.com/2023/07/18/disloyal-views-lithuania-strips-russians-residency-permits" 
+and create a Beautifulsoup response with the article text.
 
 ### Data processing with Spacy module
 Read in the contents of the Beautifulsoup object, and creates a nlp pipeline with Spacy library.
